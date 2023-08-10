@@ -11,12 +11,10 @@ sites:
 status-website:
   cname: status.swiftwave.org
   logoUrl: https://raw.githubusercontent.com/swiftwave-org/upptime/master/assets/swiftwave-icon.png
-  name: Swiftwave Status
+  name: Swiftwave
   theme: light
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Swiftwave** is a open-source self hosted paas solution built on docker to make it easy to deploy and manage application without huge cloud cost"
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/swiftwave-org
