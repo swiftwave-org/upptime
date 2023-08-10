@@ -10,7 +10,7 @@ sites:
 
 status-website:
   cname: status.swiftwave.org
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/swiftwave-org/upptime/master/assets/swiftwave-icon.png
   name: Swiftwave Status
   theme: light
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
