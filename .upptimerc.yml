@@ -7,6 +7,10 @@ sites:
     url: dashboard.swiftwave.org
     assignees:
       - tanmoysrt
+  - name: Swiftwave Secured Proxy
+    url: https://proxy.swiftwave.org/status
+    assignees:
+      - tanmoysrt
 
 status-website:
   cname: status.swiftwave.org
