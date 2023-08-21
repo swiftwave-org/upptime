@@ -11,6 +11,10 @@ sites:
     url: https://proxy.swiftwave.org/status
     assignees:
       - tanmoysrt
+  - name: Api Documentation
+    url: https://apidocs.swiftwave.org
+    assignees:
+      - tanmoysrt
 
 status-website:
   cname: status.swiftwave.org
