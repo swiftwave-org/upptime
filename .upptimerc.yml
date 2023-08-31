@@ -3,7 +3,7 @@ owner: swiftwave-org
 repo: upptime # The name of this repository
 
 sites:
-  - name: Swiftwave Landing Page & Documentation
+  - name: Landing Page & Documentation
     url: swiftwave.org
     assignees:
       - tanmoysrt
@@ -11,12 +11,16 @@ sites:
     url: dashboard.swiftwave.org
     assignees:
       - tanmoysrt
-  - name: Swiftwave Secured Proxy
+  - name: API Documentation
+    url: https://apidocs.swiftwave.org
+    assignees:
+      - tanmoysrt
+  - name: Secured Proxy
     url: https://proxy.swiftwave.org/status
     assignees:
       - tanmoysrt
-  - name: Swiftwave Api Documentation
-    url: https://apidocs.swiftwave.org
+  - name: Staging Environment
+    url: http://staging.swiftwave.org/stats
     assignees:
       - tanmoysrt
 
