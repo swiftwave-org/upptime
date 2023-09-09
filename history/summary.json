@@ -76,19 +76,19 @@
     "url": "http://staging.swiftwave.org/stats",
     "icon": "https://icons.duckduckgo.com/ip3/staging.swiftwave.org.ico",
     "slug": "staging-environment",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 733,
     "timeDay": 761,
     "timeWeek": 746,
     "timeMonth": 733,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2023-09-09": 3
+      "2023-09-09": 0
     }
   }
 ]
