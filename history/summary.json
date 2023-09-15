@@ -31,7 +31,7 @@
     "time": 199,
     "timeDay": 198,
     "timeWeek": 183,
-    "timeMonth": 182,
+    "timeMonth": 181,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -76,9 +76,9 @@
     "url": "http://staging.swiftwave.org/stats",
     "icon": "https://icons.duckduckgo.com/ip3/staging.swiftwave.org.ico",
     "slug": "staging-environment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 755,
     "timeMonth": 740,
     "timeYear": 740,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-15": 0
+    }
   }
 ]
