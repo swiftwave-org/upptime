@@ -76,7 +76,7 @@
     "url": "http://staging.swiftwave.org/stats",
     "icon": "https://icons.duckduckgo.com/ip3/staging.swiftwave.org.ico",
     "slug": "staging-environment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "98.36%",
     "uptimeWeek": "99.77%",
