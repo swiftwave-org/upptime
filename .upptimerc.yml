@@ -7,20 +7,12 @@ sites:
     url: swiftwave.org
     assignees:
       - tanmoysrt
-  - name: Swiftwave Dashboard
-    url: dashboard.swiftwave.org
-    assignees:
-      - tanmoysrt
   - name: API Documentation
     url: https://apidocs.swiftwave.org
     assignees:
       - tanmoysrt
-  - name: Secured Proxy
-    url: https://proxy.swiftwave.org/status
-    assignees:
-      - tanmoysrt
   - name: Staging Environment
-    url: http://staging.swiftwave.org/stats
+    url: http://staging.swiftwave.org:3333/.well-known/pre-authorize
     assignees:
       - tanmoysrt
 
