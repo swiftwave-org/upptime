@@ -22,18 +22,20 @@
     "url": "dashboard.swiftwave.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "swiftwave-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 79,
-    "timeWeek": 124,
-    "timeMonth": 160,
-    "timeYear": 186,
-    "dailyMinutesDown": {}
+    "time": 188,
+    "timeDay": 209,
+    "timeWeek": 151,
+    "timeMonth": 166,
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2023-10-16": 0
+    }
   },
   {
     "name": "API Documentation",
@@ -84,7 +86,7 @@
     "uptimeYear": "99.59%",
     "time": 753,
     "timeDay": 751,
-    "timeWeek": 745,
+    "timeWeek": 735,
     "timeMonth": 755,
     "timeYear": 753,
     "dailyMinutesDown": {
