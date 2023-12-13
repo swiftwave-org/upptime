@@ -7,14 +7,14 @@ sites:
     url: swiftwave.org
     assignees:
       - tanmoysrt
-  - name: API Documentation
-    url: https://apidocs.swiftwave.org
+  - name: GraphQL API Documentation
+    url: https://graphql.docs.swiftwave.org
     assignees:
       - tanmoysrt
-  - name: Staging Environment
-    url: http://staging.swiftwave.org:3333/.well-known/pre-authorize
-    assignees:
-      - tanmoysrt
+  # - name: Staging Environment
+  #   url: http://staging.swiftwave.org:3333/.well-known/pre-authorize
+  #   assignees:
+  #     - tanmoysrt
 
 status-website:
   cname: status.swiftwave.org
